@@ -62,3 +62,7 @@ a.	Parallelly, the text of the questions is similarly embedded into the same vec
 8)	Finally, the 10 Chunks that are estimated to have the answers for each question are provided to an Agentic IA (Claude Sonnet 4.6) to generate a one-paragraph summary of their contents.
 
 
+OUTPUT
+
+Raw Results of Semantic Search are located in aging_policies_answers
+Clean Results of Claude's Summary of Semantic Search Results are the final output, and are in answers_claude.
